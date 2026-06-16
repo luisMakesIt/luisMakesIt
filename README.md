@@ -23,13 +23,15 @@ Construyo aplicaciones web de punta a punta, del diseño de la interfaz a la ló
 
 ### 📊 GitHub en números
 
-<div align="center">
+> Datos reales actualizados a junio 2026 _(incluye actividad en repos privados)_
 
-![Stats de Luis](https://github-readme-stats.vercel.app/api?username=luismakesit&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=luismakesit&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
+| | |
+|---|---|
+| 🔥 Contribuciones (último año) | **1.082** |
+| 🔒 De ellas, en repos privados | **1.071** |
+| 🔀 Pull Requests | **101** |
+| ⭐ Stars recibidas | **5** |
+| 📦 Repositorios | **115** |
 
 ---
 
